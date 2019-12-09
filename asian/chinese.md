@@ -6,4 +6,4 @@ Select a restaurant:
 ---
 [Back to Asian](..)  
 
-[Start Over](../../br-restaurant-guide)
+[Start Over](../home.md)

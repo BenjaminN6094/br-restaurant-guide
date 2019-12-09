@@ -7,4 +7,4 @@ Select a restaurant:
 ---
 [Back to Asian](..)  
 
-[Start Over](../..)
+[Start Over](../home.md)
